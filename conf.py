@@ -3,7 +3,7 @@
 """
 
 # For Maverick
-site_prefix = "/blog/"
+site_prefix = "/"
 source_dir = "../src/"
 build_dir = "../dist/"
 index_page_size = 10
@@ -15,7 +15,7 @@ template = {
 }
 enable_jsdelivr = {
     "enabled": True,
-    "repo": "tiger9452/blog@gh-pages"
+    "repo": "tiger9452/tiger9452.github.io@master"
 }
 
 # 站点设置
